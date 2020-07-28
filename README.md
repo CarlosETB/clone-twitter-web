@@ -64,4 +64,3 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ## Licença
 
 Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
->>>>>>> 6f4ca4a016205189c5025f91efc69b03ab27a928
